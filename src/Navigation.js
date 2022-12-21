@@ -8,7 +8,9 @@ import Succes from './screen/Succes';
 import Login from './screen/Login';
 import Beranda from './screen/Beranda';
 import Detail from './screen/Detail';
+
 const Stack = createNativeStackNavigator();
+
 const Navigation = () => {
     return (
         <NavigationContainer >
